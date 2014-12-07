@@ -11,15 +11,12 @@
   color: white;
   font-family: "Dosis";
   font-size: 12em;
-  margin: 0 auto;
   text-align: center; }
   .excited li {
     display: inline-block; }
   .excited ul {
     list-style-type: none;
-    margin-top: 0px;
-    padding-top: 10%;
-    margin-bottom: 0; }
+    margin: 10% 55px 0 0; }
 
 .first:hover, .second:hover {
   -webkit-animation-name: pulse;
