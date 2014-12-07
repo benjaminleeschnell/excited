@@ -16,7 +16,7 @@
     display: inline-block; }
   .excited ul {
     list-style-type: none;
-    margin: 10% 55px 0 0; }
+    margin: 200px 55px 0 0; }
 
 .first:hover, .second:hover {
   -webkit-animation-name: pulse;
