@@ -4,7 +4,7 @@
 .hero {
   height: 75vh;
   max-width: 100%;
-  background: url("../img/blue-cloth.jpg") center center no-repeat fixed;
+  background: url("../img/blue-cloth.jpg") center center no-repeat;
   overflow: auto; }
 
 .excited {
@@ -16,7 +16,10 @@
     display: inline-block; }
   .excited ul {
     list-style-type: none;
-    margin: 10%, 55px, 0, 0; }
+    margin-top: 0;
+    padding-top: 10%;
+    margin-bottom: 0; 
+    padding-right: 55px}
 
 .first:hover, .second:hover {
   -webkit-animation-name: pulse;
