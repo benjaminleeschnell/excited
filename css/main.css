@@ -128,4 +128,9 @@
     -o-backface-visibility: hidden;
     backface-visibility: hidden; }
 
+@media screen and (max-width: 300px) {
+    .excited {
+      font-size: 8em;
+    }
+
 /*# sourceMappingURL=main.css.map */
