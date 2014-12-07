@@ -128,7 +128,7 @@
     -o-backface-visibility: hidden;
     backface-visibility: hidden; }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 500px) {
     .excited {
       font-size: 8em;
     }
